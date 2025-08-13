@@ -1,0 +1,8 @@
+Proceso Ejercicio1
+    Definir nombre, apellido Como Cadena;
+    nombre <- "camilo Andres";
+    apellido <- "Millan Medina ";
+    Escribir "Bienvenido ", nombre, " ", apellido, "!";
+FinProceso
+
+//Código realizado en 'Pseudocode' App for Android

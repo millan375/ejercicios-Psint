@@ -1,0 +1,7 @@
+Proceso Ejercicio3
+    Definir precio Como Real;
+    precio <- 20.14;
+    Escribir "El precio del artículo es $", precio;
+FinProceso
+
+//Código realizado en 'Pseudocode' App for Android

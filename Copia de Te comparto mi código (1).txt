@@ -1,0 +1,7 @@
+Proceso Ejercicio5
+    Definir letra Como cadena;
+    letra <- "R" ; 
+    Escribir "La letra asignada es: ", letra;
+FinProceso
+
+//Código realizado en 'Pseudocode' App for Android

@@ -1,0 +1,7 @@
+Proceso Ejercicio4
+    Definir esEstudiante Como Logico;
+    esEstudiante <- Verdadero;
+    Escribir "¿Es usted estudiante? (Verdadero/Falso): ", esEstudiante;
+FinProceso
+
+//Código realizado en 'Pseudocode' App for Android

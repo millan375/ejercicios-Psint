@@ -1,0 +1,8 @@
+Proceso Ejercicio2
+    Definir edad Como Entero;
+    edad <- 20;
+    
+    Escribir "Tienes ", edad, " años";
+FinProceso
+
+//Código realizado en 'Pseudocode' App for Android
